@@ -1,2 +1,2 @@
-Navn Marcus Rasmussen
-StudieMail cph-mr671@cphbusiness.dk
+Navn: Marcus Rasmussen
+StudieMail: cph-mr671@cphbusiness.dk
